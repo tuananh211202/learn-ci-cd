@@ -1,6 +1,6 @@
 name: Build, Push, Ssh, Pull, Down, Up
 
-# ngu
+# ngungoc
 on: [push]
 
 jobs:
