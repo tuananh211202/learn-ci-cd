@@ -1,5 +1,6 @@
 name: Build, Push, Ssh, Pull, Down, Up
 
+# ngu
 on: [push]
 
 jobs:
